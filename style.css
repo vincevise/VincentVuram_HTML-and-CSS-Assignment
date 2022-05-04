@@ -82,7 +82,7 @@ nav{
     background-size: cover;
     background-repeat: no-repeat;
     animation-name: slide-show;
-    animation-duration: 12s; 
+    animation-duration: 15s; 
     animation-delay: 3s;
     animation-iteration-count: infinite;
     border: 2px solid steelblue;
@@ -91,14 +91,18 @@ nav{
 
 @keyframes slide-show {
     0%{
+        background-image: url('Images/Animation/ani1.jpg');
+    }
+
+    25%{
         background-image: url('Images/Animation/ani2.png');
     }
 
-    33%{
+    50%{
         background-image: url('Images/Animation/ani3.jpg');
     }
 
-    66%{
+    75%{
         background-image: url('Images/Animation/ani4.jpg');
     }
 
