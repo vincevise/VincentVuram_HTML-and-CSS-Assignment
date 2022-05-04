@@ -29,6 +29,8 @@ And your team has asked you to develop a Homepage for the products and the Lab T
  (Look at the below images for your reference.)
  
  ![image](https://user-images.githubusercontent.com/88813613/166649182-21a4cc45-4da0-4be2-9208-6989a2074aa6.png)
+ 
+ 
  ![image](https://user-images.githubusercontent.com/88813613/166649247-70c4adbc-ce55-43e8-85fb-77314d60e005.png) 
  
 3. First thing in the web page is to show offers or some information in the form of images.
