@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lab test 3</title>
+    <link rel="stylesheet" href="LabTest.css">
+</head>
+<body>
+    <form action="message.html" method="post">
+        <div class="container">
+            <div class="form-div">
+                <ol>
+                    <li >Your Contact Details
+                        <br>
+                        <br>
+                        <div class="input-container">
+                            <input type="text" name="name" placeholder="Full Name" required>
+                            <input type="text" name="PatientId" placeholder="Patient id if exist" required>
+                        </div>
+                        <div class="input-container"> 
+                            <input type="number" name="PhoneNo" placeholder="Contact Number" required>
+                            <input type="email" name="email" placeholder="Email id" required>
+                        <div>
+                        
+                    </li>
+                    <li >Address
+                        <br>
+                        <br>
+                        <div class="input-container">
+                            <input type="text" name="House No" placeholder="House No">
+                            <input type="text" name="street" placeholder="Street">
+                        </div>
+                        <div class="input-container"> 
+                            <input type="text" name="area" placeholder="Area"> 
+                        </div>
+                        <div id="district-option">
+                            <br>
+                            <label for="district">District</label>
+                            <br>
+                            <br>
+                            <select name="district" id="district">
+                                <option value="Choose">Choose</option>
+                                <option value="surat">Surat</option>
+                                <option value="Vapi">Vapi</option>
+                                <option value="Ahemdabad">Ahemdabad</option>
+                                <option value="Gandhinagar">Gandhinagar</option>
+                            </select>
+                        </div>
+                    </li>
+                    <li id="test-type">Choose the Test Type. 
+                        <br>
+                        
+                        <p>Choose atleast one option</p> 
+                        <table>
+                            <tbody>
+                                <tr>
+                                    <td>
+                                        <label for="cbc">CBC</label>
+                                    </td>
+                                    <td>
+                                        <input type="checkbox" name="cbc">
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <label for="Urine">Complete Urine</label>
+                                    </td>
+                                    <td>
+                                        <input type="checkbox" name="Urine">
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <label for="">Lipid Profile</label>
+                                    </td>
+                                    <td>
+                                        <input type="checkbox" name="Lipid Profile">
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <label for="TSH
+                                        ">Thyroid Stimulating Hormone(TSH)
+                                    </label>
+                                    </td>
+                                    <td>
+                                        <input type="checkbox" name="TSH
+                                        ">
+
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <label for="Glucose Test">Glucose Test</label>
+                                    </td>
+                                    <td>
+                                        <input type="checkbox" name="Glucose Test">
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </li>
+                    <li id="report">Do you want a hard copy of the report also?
+                        <div>
+                            
+                        <br>
+                            <label for="radio">Yes</label>
+                            <input type="radio" name="radio">
+                            <label for="radio">No</label>
+                            <input type="radio" name="radio">
+                        </div>
+
+                    </li>
+                    <li>Select Your Comfortable Date and Time
+                        
+                        <div class="date-time"> 
+                            <br>
+                            <label for="date">Date</label>
+                            <input type="date" name="date">
+                            <label for="date">time</label>
+                            <input type="time" name="time">
+                        </div>
+
+                    </li>
+                </ol>
+            </div>
+            <div class="img-div"> 
+                  
+            </div>
+        </div>
+        <div class="btn">
+            <button><a href="LabTest.html">Reset</a></button>
+            <button>Submit</button>
+        </div>
+        
+    </form>
+</body>
+</html>
