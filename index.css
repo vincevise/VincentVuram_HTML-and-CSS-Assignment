@@ -23,13 +23,13 @@ header > h1{
 
 nav{
     background-color: #7f7e7f; 
+    z-index = 1;
 }
 
 .nav-bar{
     padding-left: 30px;
     position: sticky;
-    top: 0%;
-    z-index = 1;
+    top: 0%; 
 }
 .drop-down{
     display: inline-block;
