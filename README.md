@@ -15,15 +15,15 @@ And your team has asked you to develop a Homepage for the products and the Lab T
   
  b. Our Medicines
     
-*   i. When Hovered on this, show a dropdown list of links for Fever, Muscle Pains, (Cold & Cough)
+   * When Hovered on this, show a dropdown list of links for Fever, Muscle Pains, (Cold & Cough)
  
  c. Health Care
     
-   i. When Hovered on this, show a dropdown list of links for Baby Care, Skin Care, Home Care, Personal Care and Pet Care
+   * When Hovered on this, show a dropdown list of links for Baby Care, Skin Care, Home Care, Personal Care and Pet Care
  
  d. Lab Test
  
-   i. When Clicked on Lab Test, Open a form to book the slot.
+   * When Clicked on Lab Test, Open a form to book the slot.
  
  e. When the web page is scrolled, make sure that the navigation bar is still seen on the top of the web page.
  (Look at the below images for your reference.)
