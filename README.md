@@ -9,7 +9,7 @@ The report will be sent via mail and a hard copy if requested.
 And your team has asked you to develop a Homepage for the products and the Lab Test form. The requirements of Homepage are as follows
 
 * 1. Create a Header (“Pharmacy”) and Footer(“@copyright. Only for demonstration purposes”).
-2. Create a Horizontal Navigation Bar after Header with required tags to link. When hovering on any of the links, make sure the background color changes accordingly. The tag names are as Follows.
+* 2. Create a Horizontal Navigation Bar after Header with required tags to link. When hovering on any of the links, make sure the background color changes accordingly. The tag names are as Follows.
  
  a. Home
   
@@ -33,18 +33,17 @@ And your team has asked you to develop a Homepage for the products and the Lab T
  
  ![image](https://user-images.githubusercontent.com/88813613/166649247-70c4adbc-ce55-43e8-85fb-77314d60e005.png) 
  
-3. First thing in the web page is to show offers or some information in the form of images.
+ * 3. First thing in the web page is to show offers or some information in the form of images.
  
  a. Use the Images given in the project file and create a simple animation to show them one after the other infinite times. Apply a border of 2px solid steelblue. 
 
-![image](https://user-images.githubusercontent.com/88813613/166649450-92c08a17-342b-42bb-b2a7-0716c9928a77.png)
-4. Next, create two sample sections of the products as Covid Care and Diabetes Care.
+![image](https://user-images.githubusercontent.com/88813613/166649450-92c08a17-342b-42bb-b2a7-0716c9928a77.png)* 4. Next, create two sample sections of the products as Covid Care and Diabetes Care.
 
-5. Under Each of them display products with product name, image, Price and Price after Offer and a Add to Cart option. When clicked on the button, the background color should change to rgb(250, 234, 230) and the border should change to rgb(0, 255, 76). When hovered on each product, slightly increase the width and height of it. Make Sure the output looks as shown below. 
+* 5. Under Each of them display products with product name, image, Price and Price after Offer and a Add to Cart option. When clicked on the button, the background color should change to rgb(250, 234, 230) and the border should change to rgb(0, 255, 76). When hovered on each product, slightly increase the width and height of it. Make Sure the output looks as shown below. 
 
 ![image](https://user-images.githubusercontent.com/88813613/166650053-eb8d45ca-418c-4a28-b4d0-26696c1c616e.png)
 
-6. When clicked on Lab Test in the Navigation bar, a form shall open with validation in a new page with following details.
+* 6. When clicked on Lab Test in the Navigation bar, a form shall open with validation in a new page with following details.
 
 a. Form shall have Patient Contact Details as follows.
   
