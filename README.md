@@ -15,7 +15,7 @@ And your team has asked you to develop a Homepage for the products and the Lab T
   
  b. Our Medicines
     
-   i. When Hovered on this, show a dropdown list of links for Fever, Muscle Pains, (Cold & Cough)
+*   i. When Hovered on this, show a dropdown list of links for Fever, Muscle Pains, (Cold & Cough)
  
  c. Health Care
     
