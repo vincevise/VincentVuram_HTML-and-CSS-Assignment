@@ -9,9 +9,9 @@ doorstep and analyses in the lab. The report will be sent via mail and a hard co
 And your team has asked you to develop a Homepage for the products and the Lab Test form.
 The requirements of Homepage are as follows
 
-##### 1. Create a Header (“Pharmacy”) and Footer(“@copyright. Only for demonstration purposes”).
+### 1. Create a Header (“Pharmacy”) and Footer(“@copyright. Only for demonstration purposes”).
 
-##### 2. Create a Horizontal Navigation Bar after Header with required tags to link. When hovering on any of the links, make sure the background color changes accordingly. The tag names are as Follows. 
+### 2. Create a Horizontal Navigation Bar after Header with required tags to link. When hovering on any of the links, make sure the background color changes accordingly. The tag names are as Follows. 
 - Home
 - Our Medicines :\
     i.)     When Hovered on this, show a dropdown list of links for Fever, Muscle Pains, (Cold & Cough)
@@ -29,18 +29,18 @@ The requirements of Homepage are as follows
 
 
 
-##### 3. First thing in the web page is to show offers or some information in the form of images.
+### 3. First thing in the web page is to show offers or some information in the form of images.
 -  Use the Images given in the project file and create a simple animation to show them one after the other infinite times. Apply a border of 2px solid steelblue. 
 
 ![image](https://user-images.githubusercontent.com/88813613/169971212-24565956-c69f-452d-acac-a4cccea104ba.png)
 
 
-##### 4. Next, create two sample sections of the products as Covid Care and Diabetes Care
-##### 5. Under Each of them display products with product name, image, Price and Price after Offer and a Add to Cart option. When clicked on the button, the background color should change to rgb(250, 234, 230) and the border should change to rgb(0, 255, 76). When hovered on each product, slightly increase the width and height of it. Make Sure the output looks as shown below. 
+### 4. Next, create two sample sections of the products as Covid Care and Diabetes Care
+### 5. Under Each of them display products with product name, image, Price and Price after Offer and a Add to Cart option. When clicked on the button, the background color should change to rgb(250, 234, 230) and the border should change to rgb(0, 255, 76). When hovered on each product, slightly increase the width and height of it. Make Sure the output looks as shown below. 
 
 ![image](https://user-images.githubusercontent.com/88813613/169971395-07c874cd-8eac-4331-8639-f8301f2cc2d2.png)
 
-##### 6. When clicked on Lab Test in the Navigation bar, a form shall open with validation in a new page with following details.
+### 6. When clicked on Lab Test in the Navigation bar, a form shall open with validation in a new page with following details.
 
 -   Form shall have Patient Contact Details as follows :\
     i.  Full Name
@@ -69,7 +69,7 @@ The requirements of Homepage are as follows
 ![image](https://user-images.githubusercontent.com/88813613/169971503-227d99eb-d6a6-4362-aab2-90658870cf77.png)
 
 
-##### General Instructions:
+### General Instructions:
 1. Make sure you create a responsive form or web page (when the browser is resized your
 form pr web page should behave accordingly).\
 2. Provide padding, margins, page titles, page names where needed.\
